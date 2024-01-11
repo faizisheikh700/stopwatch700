@@ -1,0 +1,50 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+}
+
+#bd{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-top: 30px;
+    background-color: lightgreen;
+}
+h1{
+    display: inline-block;
+    /* justify-content: flex-start; */
+}
+.abc{
+    text-align: center;
+}
+
+#ab{
+    color: white;
+    background-color: rgb(76, 200, 238);
+    border:none;
+    border-radius: 20px;
+}
+
+#cd{
+    color: white;
+    background-color: rgb(46, 74, 57);
+    border:none;
+    border-radius: 20px;
+}
+
+#rest{
+    color: white;
+    background-color: rgb(6, 111, 39);
+    border:none;
+    border-radius: 20px;
+}
+
+button{
+    width: 80px;
+}
+
+.hd{
+    font-weight: bolder;
+    text-decoration: underline ;
+}
+
